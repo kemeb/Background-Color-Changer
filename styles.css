@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.button-container {
+  border: dotted rgb(236, 23, 23);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 300px;
+  height: 100px;
+  font-size: 20px;
+}
