@@ -1,13 +1,13 @@
 const body = document.querySelector("body");
 const button = document.querySelector(".button");
 const colors = [
-  "blue",
-  "green",
-  "red",
-  "white",
-  "yellow",
-  "black",
-  "purple",
+  "#0000FF",
+  "#00FF00",
+  "#FF0000",
+  "#FFFFFF",
+  "#FFFF00",
+  "#000000",
+  "#800080",
   "#FF5733",
   "#00649D",
 ];
